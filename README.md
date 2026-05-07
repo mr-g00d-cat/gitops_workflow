@@ -335,7 +335,7 @@ git push origin feature/my-feature
 
 ## Author
 
-**Md Tanvir Rahman** — [Linkedin Profile](https://www.linkedin.com/in/tanvir-rahman-t006/)
+**Md Tanvir Rahman** 
 
 ---
 
